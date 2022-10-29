@@ -1,3 +1,7 @@
+#Apach 2.0    
+   
+  The Apache License is a free and open source software license,Its role is to listen to requests from browsers (which request web pages), to search for the requested page and to return it.
+  Well-known companies that use Apache include Cisco, IBM, Salesforce, General Electric, Adobe, VMware, Xerox, LinkedIn, Facebook, Hewlett-Packard, AT&T, Siemens, eBay, and many more (source).
 ### Apache 2.0 许可证 
 
 1、包含许可证：是
